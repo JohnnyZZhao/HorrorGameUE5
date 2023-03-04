@@ -1,0 +1,106 @@
+[
+	{
+		"file": "C:\\Users\\zzhao\\Documents\\Unreal Projects\\HorrorGameUE5\\Source\\HorrorGameUE5\\HorrorGameUE5.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\zzhao\\Documents\\Unreal Projects\\HorrorGameUE5\\.vscode\\compileCommands_Default\\HorrorGameUE5.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\zzhao\\Documents\\Unreal Projects\\HorrorGameUE5\\Source\\HorrorGameUE5\\HorrorGameUE5.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\zzhao\\Documents\\Unreal Projects\\HorrorGameUE5\\.vscode\\compileCommands_Default\\HorrorGameUE5.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\zzhao\\Documents\\Unreal Projects\\HorrorGameUE5\\Source\\HorrorGameUE5\\HorrorGameUE5.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\zzhao\\Documents\\Unreal Projects\\HorrorGameUE5\\.vscode\\compileCommands_Default\\HorrorGameUE5.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\zzhao\\Documents\\Unreal Projects\\HorrorGameUE5\\Source\\HorrorGameUE5\\HorrorGameUE5Character.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\zzhao\\Documents\\Unreal Projects\\HorrorGameUE5\\.vscode\\compileCommands_Default\\HorrorGameUE5.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\zzhao\\Documents\\Unreal Projects\\HorrorGameUE5\\Source\\HorrorGameUE5\\HorrorGameUE5Character.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\zzhao\\Documents\\Unreal Projects\\HorrorGameUE5\\.vscode\\compileCommands_Default\\HorrorGameUE5.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\zzhao\\Documents\\Unreal Projects\\HorrorGameUE5\\Source\\HorrorGameUE5\\HorrorGameUE5GameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\zzhao\\Documents\\Unreal Projects\\HorrorGameUE5\\.vscode\\compileCommands_Default\\HorrorGameUE5.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\zzhao\\Documents\\Unreal Projects\\HorrorGameUE5\\Source\\HorrorGameUE5\\HorrorGameUE5GameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\zzhao\\Documents\\Unreal Projects\\HorrorGameUE5\\.vscode\\compileCommands_Default\\HorrorGameUE5.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\zzhao\\Documents\\Unreal Projects\\HorrorGameUE5\\Source\\HorrorGameUE5\\HorrorGameUE5Projectile.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\zzhao\\Documents\\Unreal Projects\\HorrorGameUE5\\.vscode\\compileCommands_Default\\HorrorGameUE5.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\zzhao\\Documents\\Unreal Projects\\HorrorGameUE5\\Source\\HorrorGameUE5\\HorrorGameUE5Projectile.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\zzhao\\Documents\\Unreal Projects\\HorrorGameUE5\\.vscode\\compileCommands_Default\\HorrorGameUE5.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\zzhao\\Documents\\Unreal Projects\\HorrorGameUE5\\Source\\HorrorGameUE5\\TP_PickUpComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\zzhao\\Documents\\Unreal Projects\\HorrorGameUE5\\.vscode\\compileCommands_Default\\HorrorGameUE5.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\zzhao\\Documents\\Unreal Projects\\HorrorGameUE5\\Source\\HorrorGameUE5\\TP_PickUpComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\zzhao\\Documents\\Unreal Projects\\HorrorGameUE5\\.vscode\\compileCommands_Default\\HorrorGameUE5.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\zzhao\\Documents\\Unreal Projects\\HorrorGameUE5\\Source\\HorrorGameUE5\\TP_WeaponComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\zzhao\\Documents\\Unreal Projects\\HorrorGameUE5\\.vscode\\compileCommands_Default\\HorrorGameUE5.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\zzhao\\Documents\\Unreal Projects\\HorrorGameUE5\\Source\\HorrorGameUE5\\TP_WeaponComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\zzhao\\Documents\\Unreal Projects\\HorrorGameUE5\\.vscode\\compileCommands_Default\\HorrorGameUE5.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	}
+]
